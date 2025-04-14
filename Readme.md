@@ -1,6 +1,6 @@
 # DeepRead
 
-This project is a simple DeepRead application using OpenCV and PyTorch. Users can draw letters on a virtual canvas, and the model predicts the drawn letter in real-time.
+DeepRead is a neural network for handwriting recognition built on NLP and OpenCV. Using PyTorch, the model analyses the letters drawn by the user on a virtual canvas and instantly predicts them.
 
 ## Installation and Setup
 
